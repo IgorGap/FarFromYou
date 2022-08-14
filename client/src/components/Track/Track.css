@@ -1,0 +1,26 @@
+.card{
+  border: 1px solid #535252; 
+}
+
+.newmus{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.btn2,
+.btn-circle {
+  background-color: rgb(254, 255, 255);
+}
+
+.modal-box {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.modal-box input {
+  border: 1px solid white;
+}
+
+

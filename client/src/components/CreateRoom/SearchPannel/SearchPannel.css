@@ -1,0 +1,12 @@
+.search-pannel{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+gap: 1rem;
+order: 1;
+min-width: 50%;
+}
+.modalsearch{
+  border-radius: 3%;
+}
+
